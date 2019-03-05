@@ -61,3 +61,15 @@ INSERT INTO `tickets` (`pk`, `idAdminR`, `idCaso`, `idTicket`, `fecha`, `asunto`
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+
+--
+-- Documentación de la aplicación
+--
+
+Tal y como se pedía, se ha realizado una  documentación en Google Docs con la información pedida. Se puede acceder a dicha documentación en el siguiente enlace:
+
+https://docs.google.com/document/d/1TyVDH4N6prR4qo-UIgj4cb3BowBk-cHUTw0PfH7U_UY/edit?usp=sharing
+
+
